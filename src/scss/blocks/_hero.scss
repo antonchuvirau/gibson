@@ -19,7 +19,7 @@
   align-items: center;
   justify-content: center;
   bottom: -60px;
-  right: 320px;
+  right: calc((100% - 1290px) / 2);
   width: 400px;
   height: 400px;
   border-radius: 400px;
