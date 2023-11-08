@@ -14,6 +14,8 @@
   }
 }
 .item {
+  cursor: pointer;
+  color: var(--text-color-dark);
   display: flex;
   gap: 10px;
   align-items: center;
@@ -79,6 +81,6 @@
   max-height: 50px;
 }
 .item_image_5 {
-  max-width: 67x;
+  max-width: 67px;
   max-height: 50px;
 }
